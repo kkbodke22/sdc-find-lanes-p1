@@ -13,3 +13,11 @@ The following techniques are used:
 5. Apply Hough Transform Line Detection
 
 Finally, apply all the techniques to process video clips to find lane lines.
+
+Reflection:
+
+This project has been purely verified with the given set of input videos and works correctly with them.
+
+There might be different situations along with the road lanes like curvy roads, exits, ramps where there may not be the lanes and also situations like weather conditions might affect the lighting conditions and the algorithm may not work perfectly.
+
+Improvement is required based on the different conditions mentioned above.
